@@ -1,7 +1,7 @@
 # Website Clone
-(https://indoorsy.co.in/)
+Live Demo: https://indoorsyclone.netlify.app
 
-A fully responsive replica of the Apple homepage, built using HTML, CSS, and JavaScript. This project was created to practice front-end development skills and demonstrate the ability to recreate modern, responsive layouts from scratch.
+This project is a fully responsive webpage inspired by Indoorsy (https://indoorsy.co.in/) website. Built using HTML, CSS, and JavaScript, it was created to practice and demonstrate front-end development skills by accurately recreating a modern, responsive layout from scratch.
 
 ## 🔥 Features
 

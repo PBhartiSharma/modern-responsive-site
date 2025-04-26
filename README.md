@@ -1,7 +1,7 @@
 # Website Clone
 Live Demo: https://indoorsyclone.netlify.app
 
-This project is a fully responsive webpage inspired by Indoorsy (https://indoorsy.co.in/) website. Built using HTML, CSS, and JavaScript, it was created to practice and demonstrate front-end development skills by accurately recreating a modern, responsive layout from scratch.
+This project is a fully responsive webpage inspired by Indoorsy i.e. https://indoorsy.co.in/ website. Built using HTML, CSS, and JavaScript, it was created to practice and demonstrate front-end development skills by accurately recreating a modern, responsive layout from scratch.
 
 ## 🔥 Features
 
